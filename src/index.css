@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#taskList2::-webkit-scrollbar{
+    display: none;
+}
+
+#btn{
+    background-color: seagreen;
+}
+#tskbd{
+    border: 2px solid seagreen;
+    border-radius: 5px;
+}
+
